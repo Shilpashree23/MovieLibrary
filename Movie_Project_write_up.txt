@@ -1,0 +1,11 @@
+                                                                                                           Movie_Library Practice Project:
+
+
+1) I created the movie library that contain the movie-name,rating,genre,comment section.
+
+2) By using karma tool I am testing the movie library. 
+
+3) In this project, I wrote 14 specifications, skipped one specfication as per your reference and other all 13 specifications are passed.
+
+4) For your reference I uploaded Screenshots and uploaded in the github and link is mentioned
+
